@@ -1,1 +1,2 @@
-This is file 2 written in remote.
+This is file 2 (edit) written in remote.
+i wrote the text here for remote
